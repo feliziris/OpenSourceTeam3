@@ -44,8 +44,10 @@
 
 - 화재 발생이 없는 경우- 
 <img src="https://user-images.githubusercontent.com/90401282/145150501-f25df5ba-b748-4d69-8c7a-74f9fbed200f.jpg" width="900" height="350">
+
 - 화재 발생 케이스 1- 
 <img src="https://user-images.githubusercontent.com/90401282/145149809-762afc8d-4b66-4bae-b199-0136a2c35dc8.jpg" width="900" height="350">
+
 - 화재 발생 케이스 2- 
 <img src="https://user-images.githubusercontent.com/90401282/145149812-673fa1be-4235-4964-b281-959246626526.jpg" width="900" height="350">
 
