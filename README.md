@@ -43,7 +43,7 @@
 (각각의 과정의 데이터는 MCU를 이용하여 UDP 통신으로 서버와 데이터를 송수신 했다.)
 
 - 화재 발생이 없는 경우- 
-<https://user-images.githubusercontent.com/90401282/145150501-f25df5ba-b748-4d69-8c7a-74f9fbed200f.jpg" width="900" height="350">
+<img src="https://user-images.githubusercontent.com/90401282/145150501-f25df5ba-b748-4d69-8c7a-74f9fbed200f.jpg" width="900" height="350">
 - 화재 발생 케이스 1- 
 <img src="https://user-images.githubusercontent.com/90401282/145149809-762afc8d-4b66-4bae-b199-0136a2c35dc8.jpg" width="900" height="350">
 - 화재 발생 케이스 2- 
