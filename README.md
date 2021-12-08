@@ -52,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/90401282/145149812-673fa1be-4235-4964-b281-959246626526.jpg" width="900" height="350">
 
 
-* [시연영상 유튜브 링크]
+#### [시연영상 유튜브 링크]
 : https://youtu.be/7NG18pvbotk
 - 화재 발생시 바닥 led의 변화를 확인 할 수 있다.
 
