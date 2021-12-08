@@ -2,7 +2,7 @@
 
 ## 목표
 
-<img src="https://user-images.githubusercontent.com/90401282/145148578-18326d5e-ce4a-423f-9b9f-602e972bc68b.jpg" width="500" height="800">
+<img src="https://user-images.githubusercontent.com/90401282/145148578-18326d5e-ce4a-423f-9b9f-602e972bc68b.jpg" width="900" height="350">
 
 - 실시간으로 가능한 비상구까지의 경로를 안내하기
 
