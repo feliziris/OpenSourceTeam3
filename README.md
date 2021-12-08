@@ -2,7 +2,7 @@
 
 ## 목표
 
-<img src="https://github.com/3eung/lab1_calculator/issues/4#issue-1074001011" width="900" height="350">
+<img src="https://github.com/3eung/lab1_calculator/issues/4#issue-1074001011" width="500" height="800">
 
 - 실시간으로 가능한 비상구까지의 경로를 안내하기
 
