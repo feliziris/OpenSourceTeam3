@@ -2,7 +2,10 @@
 
 ## 목표
 
+<img src="https://github.com/3eung/lab1_calculator/issues/4#issue-1074001011" width="900" height="350">
+
 - 실시간으로 가능한 비상구까지의 경로를 안내하기
+
 
 
 ## 핵심내용
@@ -11,9 +14,13 @@
 - 바닥 led 화살표를 이용한 대피 경로 안내
 - 재난 문자를 이용한 대피 경로 안내
 
+
+
 ## 프로젝트 sw 구조도
 
 <img src="https://user-images.githubusercontent.com/90401282/145147840-3a91098a-17ca-440e-8eda-2438e4a236ee.png" width="900" height="350">
+
+
 
 ## 구현방법
 
