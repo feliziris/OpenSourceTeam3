@@ -41,13 +41,13 @@
 #### 아래 사진의 경우 화재 감지 센서로 화재의 위치를 파악하고 A*알고지즘으로 대피 경로를 계산하여 TURTLE라이브러리를 이용해 시각화 한 것이다.
 (각각의 과정의 데이터는 MCU를 이용하여 UDP 통신으로 서버와 데이터를 송수신 했다.)
 
-- 화재 발생이 없는 경우- 
+- 화재 발생이 없는 경우
 <img src="https://user-images.githubusercontent.com/90401282/145150501-f25df5ba-b748-4d69-8c7a-74f9fbed200f.jpg" width="900" height="350">
 
-- 화재 발생 케이스 1- 
+- 화재 발생 케이스 1 
 <img src="https://user-images.githubusercontent.com/90401282/145149809-762afc8d-4b66-4bae-b199-0136a2c35dc8.jpg" width="900" height="350">
 
-- 화재 발생 케이스 2- 
+- 화재 발생 케이스 2 
 <img src="https://user-images.githubusercontent.com/90401282/145151405-7b940172-224b-42eb-a812-5c99ece23273.jpg" width="900" height="350">
 
 #### 아래 영상에서는 화재 감지 시 화재 상황에 따라 a*알고리즘을 이용하여 찾은 대피 경로에 따라 바닥 LED로 방향을 나타내는 것을 확인 할 수 있다.
