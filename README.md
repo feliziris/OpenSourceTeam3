@@ -49,9 +49,6 @@
 <img src="https://user-images.githubusercontent.com/90401282/145149809-762afc8d-4b66-4bae-b199-0136a2c35dc8.jpg" width="900" height="350">
 
 - 화재 발생 케이스 2- 
-<img src="https://user-images.githubusercontent.com/90401282/145149812-673fa1be-4235-4964-b281-959246626526.jpg" width="900" height="350">
-
-- 화재 발생 케이스 2- 
 <img src="https://user-images.githubusercontent.com/90401282/145151405-7b940172-224b-42eb-a812-5c99ece23273.jpg" width="900" height="350">
 
 #### [시연영상 유튜브 링크]
