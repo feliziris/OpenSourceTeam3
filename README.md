@@ -50,7 +50,7 @@
 - 화재 발생 케이스 2- 
 <img src="https://user-images.githubusercontent.com/90401282/145151405-7b940172-224b-42eb-a812-5c99ece23273.jpg" width="900" height="350">
 
-#### 영상에서는 화재 감지 시 a*알고리즘으로 바닥 led가 변하는 내용을 확인 할 수 있다.
+#### 아래 영상에서는 화재 감지 시 a*알고리즘으로 바닥 led가 변하는 내용을 확인 할 수 있다.
 * [시연영상 유튜브 링크]
 : https://youtu.be/7NG18pvbotk
 
