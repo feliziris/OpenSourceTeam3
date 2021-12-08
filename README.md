@@ -10,7 +10,7 @@
 
 ## 프로젝트 sw 구조도
 
-<img src="https://user-images.githubusercontent.com/90401282/145147840-3a91098a-17ca-440e-8eda-2438e4a236ee.png" width="800" height="350">
+<img src="https://user-images.githubusercontent.com/90401282/145147840-3a91098a-17ca-440e-8eda-2438e4a236ee.png" width="900" height="350">
 
 
 
